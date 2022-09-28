@@ -1,0 +1,361 @@
+{
+    "1418303700": {
+        "2022-09-13 14:52:58": {
+            "Команда поиска": "Highprice",
+            "Даты пребывания": "2022-10-15 - 2022-10-21",
+            "Город": "Сингапур, Сингапур",
+            "Отели": [
+                {
+                    "Название": "Raffles Singapore",
+                    "Цена, $": 960.11,
+                    "Цена за все дни, $": 5760.66,
+                    "От центра": "1,3 км",
+                    "ID": 116216,
+                    "Адрес": "1 Beach Road, Singapore, 189673, Singapore",
+                    "Ссылка на отель": "https://www.hotels.com/ho116216/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/1000000/30000/20500/20409/5670868d_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/1000000/30000/20500/20409/c5d44ec6_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Capella Singapore (SG Clean)",
+                    "Цена, $": 885.09,
+                    "Цена за все дни, $": 5310.54,
+                    "От центра": "4,8 км",
+                    "ID": 309000,
+                    "Ссылка на отель": "https://www.hotels.com/ho309000/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/3000000/2440000/2434400/2434364/35c17fe1_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/3000000/2440000/2434400/2434364/403176a4_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Resorts World Sentosa - Equarius Villas (SG Clean)",
+                    "Цена, $": 723.25,
+                    "Цена за все дни, $": 4339.5,
+                    "От центра": "4,6 км",
+                    "ID": 497713,
+                    "Адрес": "8 Sentosa Gateway, Sentosa Island, Singapore, 98269, Singapore",
+                    "Ссылка на отель": "https://www.hotels.com/ho497713/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/6000000/5040000/5035400/5035342/2b59fe5a_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/6000000/5040000/5035400/5035342/28ff8f01_y.jpg"
+                    ]
+                }
+            ]
+        },
+        "2022-09-13 14:56:46": {
+            "Команда поиска": "Highprice",
+            "Даты пребывания": "2022-10-15 - 2022-10-21",
+            "Город": "Рим, Лацио, Италия",
+            "Отели": [
+                {
+                    "Название": "Margana Palace",
+                    "Цена, $": 3165.61,
+                    "Цена за все дни, $": 18993.66,
+                    "От центра": "1,1 км",
+                    "ID": 1467471936,
+                    "Адрес": "Piazza Margana 35, Rome, 00186, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho1467471936/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/46000000/45830000/45827300/45827248/95d2f0e8_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/46000000/45830000/45827300/45827248/4b56a308_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/46000000/45830000/45827300/45827248/95d2f0e8_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Rome Accommodation - Campo Marzio",
+                    "Цена, $": 3165.61,
+                    "Цена за все дни, $": 18993.66,
+                    "От центра": "0,3 км",
+                    "ID": 856121440,
+                    "Адрес": "Vicolo del Divino Amore 18, Rome, 00186, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho856121440/",
+                    "Фото": []
+                },
+                {
+                    "Название": "Rocco Forte Hotel De Russie",
+                    "Цена, $": 1573.19,
+                    "Цена за все дни, $": 9439.14,
+                    "От центра": "0,7 км",
+                    "ID": 393289,
+                    "Адрес": "Via del Babuino 9, Rome, RM, 187, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho393289/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/1000000/530000/523800/523751/7974a4b8_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/1000000/530000/523800/523751/21613f27_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/1000000/530000/523800/523751/7974a4b8_y.jpg"
+                    ]
+                }
+            ]
+        },
+        "2022-09-13 15:02:58": {
+            "Команда поиска": "Lowprice",
+            "Даты пребывания": "2022-10-15 - 2022-10-21",
+            "Город": "Хьюстон, Техас, США",
+            "Отели": [
+                {
+                    "Название": "Baymont by Wyndham Houston North",
+                    "Цена, $": 47.14,
+                    "Цена за все дни, $": 282.84,
+                    "От центра": "18 км",
+                    "ID": 239542,
+                    "Адрес": "10155 North Freeway, Houston, TX, 77037, United States of America",
+                    "Ссылка на отель": "https://www.hotels.com/ho239542/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/1000000/210000/202400/202349/31d04848_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/1000000/210000/202400/202349/7059d2d4_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Romana Hotel",
+                    "Цена, $": 47.24,
+                    "Цена за все дни, $": 283.44,
+                    "От центра": "14 км",
+                    "ID": 132607,
+                    "Адрес": "6885 Southwest Freeway, Houston, TX, 77074, United States of America",
+                    "Ссылка на отель": "https://www.hotels.com/ho132607/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2650/5bda22d5_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2650/0332f4e8_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Great Value Inn",
+                    "Цена, $": 47.39,
+                    "Цена за все дни, $": 284.34,
+                    "От центра": "13 км",
+                    "ID": 490418,
+                    "Адрес": "6060 Hooton Road, Houston, TX, 77081, United States of America",
+                    "Ссылка на отель": "https://www.hotels.com/ho490418/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/10000000/9840000/9837700/9837652/0de93533_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/10000000/9840000/9837700/9837652/2aa2aa1e_y.jpg"
+                    ]
+                }
+            ]
+        },
+        "2022-09-14 12:29:14": {
+            "Команда поиска": "Lowprice",
+            "Даты пребывания": "2022-10-15 - 2022-10-21",
+            "Город": "Киото, Киото (префектура), Япония",
+            "Отели": [
+                {
+                    "Название": "The OneFive Kyoto Shijo",
+                    "Цена, $": 17.39,
+                    "Цена за все дни, $": 104.34,
+                    "От центра": "2,2 км",
+                    "ID": 745343040,
+                    "Адрес": "535 Karatsuya-cho, Shijo Horikawa Nishiiru, Shimogyo-ku, Kyoto, 600-8499, Japan",
+                    "Ссылка на отель": "https://www.hotels.com/ho745343040/",
+                    "Фото": []
+                },
+                {
+                    "Название": "M’s Hotel Sanjo Omiya",
+                    "Цена, $": 17.79,
+                    "Цена за все дни, $": 106.74,
+                    "От центра": "2,7 км",
+                    "ID": 1268351808,
+                    "Адрес": "77-1, Aneomiya-cho Nishigawa, Nakagyo, Kyoto, 604-8327, Japan",
+                    "Ссылка на отель": "https://www.hotels.com/ho1268351808/",
+                    "Фото": []
+                }
+            ]
+        },
+        "2022-09-14 12:34:58": {
+            "Команда поиска": "Bestdeal",
+            "Даты пребывания": "2022-10-15 - 2022-10-21",
+            "Макс. расстояние от центра": "7.0 км",
+            "Макс. цена, $": 30.0,
+            "Город": "Киото, Киото (префектура), Япония",
+            "Отели": [
+                {
+                    "Название": "M's Hotel Gojo Naginatagiri",
+                    "Цена, $": 17.93,
+                    "Цена за все дни, $": 107.58,
+                    "От центра": "1,3 км",
+                    "ID": 1149061984,
+                    "Ссылка на отель": "https://www.hotels.com/ho1149061984/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/36000000/35880000/35877000/35876937/6102faa7_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/36000000/35880000/35877000/35876937/2af8d0cb_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "The OneFive Kyoto Shijo",
+                    "Цена, $": 17.39,
+                    "Цена за все дни, $": 104.34,
+                    "От центра": "2,2 км",
+                    "ID": 745343040,
+                    "Адрес": "535 Karatsuya-cho, Shijo Horikawa Nishiiru, Shimogyo-ku, Kyoto, 600-8499, Japan",
+                    "Ссылка на отель": "https://www.hotels.com/ho745343040/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/24000000/23270000/23260800/23260720/408f9905_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/24000000/23270000/23260800/23260720/b7f31f59_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "M’s Hotel Sanjo Omiya",
+                    "Цена, $": 17.79,
+                    "Цена за все дни, $": 106.74,
+                    "От центра": "2,7 км",
+                    "ID": 1268351808,
+                    "Адрес": "77-1, Aneomiya-cho Nishigawa, Nakagyo, Kyoto, 604-8327, Japan",
+                    "Ссылка на отель": "https://www.hotels.com/ho1268351808/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/40000000/39610000/39604800/39604744/9844f2c5_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/40000000/39610000/39604800/39604744/4ff1d423_y.jpg"
+                    ]
+                }
+            ]
+        }
+    },
+    "1411844231": {
+        "2022-09-12 21:19:56": {
+            "Команда поиска": "Highprice",
+            "Даты пребывания": "2022-11-01 - 2022-11-10",
+            "Город": "Рим, Лацио, Италия",
+            "Отели": [
+                {
+                    "Название": "Margana Palace",
+                    "Цена, $": 3139.87,
+                    "Цена за все дни, $": 28258.83,
+                    "От центра": "1,1 км",
+                    "ID": 1467471936,
+                    "Адрес": "Piazza Margana 35, Rome, 00186, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho1467471936/",
+                    "Фото": []
+                },
+                {
+                    "Название": "Rome Accommodation - Campo Marzio",
+                    "Цена, $": 3139.87,
+                    "Цена за все дни, $": 28258.83,
+                    "От центра": "0,3 км",
+                    "ID": 856121440,
+                    "Адрес": "Vicolo del Divino Amore 18, Rome, 00186, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho856121440/",
+                    "Фото": []
+                },
+                {
+                    "Название": "Rocco Forte Hotel De Russie",
+                    "Цена, $": 1559.48,
+                    "Цена за все дни, $": 14035.32,
+                    "От центра": "0,7 км",
+                    "ID": 393289,
+                    "Ссылка на отель": "https://www.hotels.com/ho393289/",
+                    "Фото": []
+                },
+                {
+                    "Название": "Panisperna Suite 2 Bedrooms With Terrace",
+                    "Цена, $": 1528.27,
+                    "Цена за все дни, $": 13754.43,
+                    "От центра": "1,3 км",
+                    "ID": 1336086432,
+                    "Адрес": "Via Panisperna, 65, Rome, Lazio, 00184, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho1336086432/",
+                    "Фото": []
+                },
+                {
+                    "Название": "Hotel Eden - Dorchester Collection",
+                    "Цена, $": 1494.13,
+                    "Цена за все дни, $": 13447.17,
+                    "От центра": "0,7 км",
+                    "ID": 109293,
+                    "Адрес": "Via Ludovisi 49, Rome, RM, 187, Italy",
+                    "Ссылка на отель": "https://www.hotels.com/ho109293/",
+                    "Фото": []
+                }
+            ]
+        },
+        "2022-09-13 12:39:45": {
+            "Команда поиска": "Lowprice",
+            "Даты пребывания": "2022-10-01 - 2022-10-10",
+            "Город": "Анталья, Анталья (провинция), Турция",
+            "Отели": [
+                {
+                    "Название": "Ersoy Ak Pansiyon",
+                    "Цена, $": 12.75,
+                    "Цена за все дни, $": 114.75,
+                    "От центра": "1,0 км",
+                    "ID": 980746752,
+                    "Адрес": "Kizilsaray Mahallesi 75. Sokak 4/1, Muratpasa, Antalya, 7040, Türkiye",
+                    "Ссылка на отель": "https://www.hotels.com/ho980746752/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/31000000/30620000/30617100/30617086/9fa08922_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/31000000/30620000/30617100/30617086/8f3a460a_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/31000000/30620000/30617100/30617086/8d6d4241_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Ersoy Efe Pansiyon",
+                    "Цена, $": 13.66,
+                    "Цена за все дни, $": 122.94,
+                    "От центра": "1,1 км",
+                    "ID": 674722208,
+                    "Адрес": "Muratpasa Mahallesi, 562. Sk. No 13, Antalya, Muratpasa, 07010, Türkiye",
+                    "Ссылка на отель": "https://www.hotels.com/ho674722208/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/22000000/21060000/21053900/21053819/da5190b8_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/22000000/21060000/21053900/21053819/938ae211_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/22000000/21060000/21053900/21053819/044bb5e1_y.jpg"
+                    ]
+                }
+            ]
+        },
+        "2022-09-13 14:49:08": {
+            "Команда поиска": "Bestdeal",
+            "Даты пребывания": "2022-10-01 - 2022-12-01",
+            "Макс. расстояние от центра": "3.0 км",
+            "Макс. цена, $": 250.0,
+            "Город": "Сингапур, Сингапур",
+            "Отели": [
+                {
+                    "Название": "ST Signature Bugis Beach, DAYUSE, 5 hours: 9AM – 2PM (SG Clean)",
+                    "Цена, $": 49.81,
+                    "Цена за все дни, $": 3038.41,
+                    "От центра": "1,6 км",
+                    "ID": 1725847712,
+                    "Адрес": "85 Beach Rd, Singapore, 189694, Singapore",
+                    "Ссылка на отель": "https://www.hotels.com/ho1725847712/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53901500/53901491/84125c5b_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53901500/53901491/0979a01a_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53901500/53901491/6c5e99f3_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53901500/53901491/89829d50_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "ST Signature Jalan Besar, DAYUSE, 5 hours: 10AM-3PM (SG Clean)",
+                    "Цена, $": 47.33,
+                    "Цена за все дни, $": 2887.13,
+                    "От центра": "2,2 км",
+                    "ID": 1725820288,
+                    "Адрес": "15 Upper Weld Rd, Singapore, 207372, Singapore",
+                    "Ссылка на отель": "https://www.hotels.com/ho1725820288/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53900700/53900634/c6245e9c_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53900700/53900634/8b173502_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53900700/53900634/38203332_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/54000000/53910000/53900700/53900634/b92db3ad_y.jpg"
+                    ]
+                },
+                {
+                    "Название": "Arianna Hotel",
+                    "Цена, $": 49.08,
+                    "Цена за все дни, $": 2993.88,
+                    "От центра": "2,6 км",
+                    "ID": 339441,
+                    "Адрес": "83 Syed Alwi Road, Singapore, 207662, Singapore",
+                    "Ссылка на отель": "https://www.hotels.com/ho339441/",
+                    "Фото": [
+                        "https://exp.cdn-hotels.com/hotels/4000000/3090000/3089700/3089603/951e6acc_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/4000000/3090000/3089700/3089603/951e6acc_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/4000000/3090000/3089700/3089603/4a258351_y.jpg",
+                        "https://exp.cdn-hotels.com/hotels/4000000/3090000/3089700/3089603/e42f5ab7_y.jpg"
+                    ]
+                }
+            ]
+        }
+    }
+}
