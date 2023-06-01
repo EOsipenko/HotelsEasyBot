@@ -56,9 +56,7 @@
 - requests
 - json
 - re
-- datetime
 - operator
-- typing
 
 
 ## *Автор проекта*
